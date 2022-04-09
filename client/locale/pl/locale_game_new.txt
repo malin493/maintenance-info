@@ -1,0 +1,3 @@
+MAINTENANCE_REMAINING_TIME	Przerwa techniczna za: %s
+MAINTENANCE_CAUSE	Powód: %s
+MAINTENANCE_DURATION	Trwanie: %s
